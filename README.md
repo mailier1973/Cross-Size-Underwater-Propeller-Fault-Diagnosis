@@ -1,14 +1,3 @@
-# Cross-Size Underwater Propeller Fault Diagnosis
+# Cross-Size Underwater Propeller Fault Dataset (CSUP-FD)
 
-This repository is for the research paper:
-
-**Cross-Size Underwater Propeller Fault Diagnosis via Domain Adversarial Training with Spectral Attention and Multi-Task Learning**
-
-## Data Availability
-The dataset used in this research will be made publicly available after the paper is accepted for publication. **The code will not be shared.**
-
-Please check back later for the data release! The data will include underwater acoustic signals, corresponding health states, and rotational speed variations for both small and large propellers.
-
-## Citation
-If you use the dataset, please cite our paper:
-
+This repository provides underwater acoustic signals collected from small and large propellers. 
